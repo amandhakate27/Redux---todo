@@ -2,6 +2,8 @@
 
 A clean, high-contrast, monochrome Todo List application built using React, Vite, and Tailwind CSS.
 
+**[Live Demo](https://redux-todo-uc8h-er3imlxvt-aman-dhakates-projects.vercel.app/)**
+
 ## State Management
 
 This project uses **Redux Toolkit** and **React-Redux** for robust and predictable state management:
